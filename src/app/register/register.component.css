@@ -48,8 +48,6 @@ body{
 
 .labelname{
     color: white;
-    /* display: flex;
-    justify-content: end; */
 }
 
 
@@ -72,8 +70,12 @@ body{
 }
 
 .btn1:hover{
-    background: #0DE625;
+    color: black;
+    background: rgba(10, 236, 21, 0.925);
+    box-shadow: 0 0 10px #2196f3 0 0 40px #2196f3 0 0 80px #2196f3;
+    
 }
+
 
 .btn2{
     border: 0;
